@@ -68,3 +68,4 @@ F:\C#学校课程\个人理财管理系统\个人理财管理系统\obj\Debug\ne
 F:\C#学校课程\个人理财管理系统\个人理财管理系统\obj\Debug\net8.0-windows\个人理财管理系统.ChildForm3.resources
 F:\C#学校课程\个人理财管理系统\个人理财管理系统\obj\Debug\net8.0-windows\个人理财管理系统.Properties.Resources.resources
 F:\C#学校课程\个人理财管理系统\个人理财管理系统\obj\Debug\net8.0-windows\个人理财管理系统.ChildForm4.resources
+F:\C#学校课程\个人理财管理系统\个人理财管理系统\obj\Debug\net8.0-windows\个人理财管理系统.sourcelink.json

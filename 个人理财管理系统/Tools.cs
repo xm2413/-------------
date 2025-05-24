@@ -30,6 +30,7 @@ namespace 个人理财管理系统
                 return _instance;
             }
         }
+        #region 以下为从服务器获取
         public List<SaveList> GetListTable()
         {
             #region 获取[list]表
@@ -110,6 +111,8 @@ namespace 个人理财管理系统
             }
             #endregion
         }
+        #endregion
+        #region 以下为通过id或name查找
         public Item FindItemById(int itemId, List<Item> items)
         {
             foreach (Item item1 in items)
@@ -163,5 +166,6 @@ namespace 个人理财管理系统
             }
             return null;
         }
+        #endregion
     }
 }

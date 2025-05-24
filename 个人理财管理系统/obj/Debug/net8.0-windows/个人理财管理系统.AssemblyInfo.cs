@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("个人理财管理系统")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ed04ab6723ce7659fe7806acba61d8b7394a13")]
 [assembly: System.Reflection.AssemblyProductAttribute("个人理财管理系统")]
 [assembly: System.Reflection.AssemblyTitleAttribute("个人理财管理系统")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
