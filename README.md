@@ -1,5 +1,9 @@
 # personal Finance System
 
+### 警告！
+
+只支持**SQLServer**使用！其他数据库（比如pg）如果出问题暂无解决方案！
+
 ### 使用教程
 
 1. 打开**SQLManager.cs**，找到开头的connectionString，修改成你自己的。之后即可使用。
